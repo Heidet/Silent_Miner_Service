@@ -1,0 +1,3 @@
+PhoenixMiner.exe --help
+pause
+
